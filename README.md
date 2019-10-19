@@ -16,8 +16,8 @@ https://listed.to/QFjWtdPafv
 
 Before:
 
-<img src="https://github.com/christianhans/sn-sf-pro-text-font/blob/master/before.png" width="100%">
+<img src="https://github.com/christianhans/sn-sf-pro-text-font/blob/master/before.png" width="914px">
 
 After:
 
-<img src="https://github.com/christianhans/sn-sf-pro-text-font/blob/master/after.png" width="100%">
+<img src="https://github.com/christianhans/sn-sf-pro-text-font/blob/master/after.png" width="914px">

@@ -4,7 +4,7 @@ macOS Catalina changes the way the San Francisco system font is rendered in Elec
 
 ## Installation
 
-1. Download and install the SF Pro font from [Apple's Developer Website](https://developer.apple.com/fonts/).
+1. Download and install the **SF Pro** font from [Apple's Developer Website](https://developer.apple.com/fonts/).
 
 2. Open "Extensions" in Standard Notes and click "Import Extension". Enter the following URL as Extension Link and press Enter:
 

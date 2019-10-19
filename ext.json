@@ -7,7 +7,7 @@ metatype: json
   "name": "SF Pro Text Font",
   "content_type": "SN|Theme",
   "area": "themes",
-  "description": "",
+  "description": "Restores the way the Standard Notes Desktop App looked like on macOS Mojave.",
   "version": "v0.0.1",
   "url": "https://cdn.jsdelivr.net/gh/christianhans/sn-sf-pro-text-font@master/dist/dist.css",
   "download_url": "https://github.com/christianhans/sn-sf-pro-text-font/archive/0.0.1.zip",

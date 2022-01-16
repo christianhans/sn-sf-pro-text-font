@@ -9,7 +9,7 @@ macOS Catalina changes the way the San Francisco system font is rendered in Elec
 2. Open "Extensions" in Standard Notes and click "Import Extension". Enter the following URL as Extension Link and press Enter:
 
 ```
-https://listed.to/QFjWtdPafv
+https://listed.to/p/KtdnFQ5wEX
 ```
 
 ## Preview
